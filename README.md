@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/62486840/147903104-9401580f-bd80-4744-a44f-c3cb25be7ecb.png)
 
-# Customer-Churn-Prediction-using-Machine-Learning
+# Customer Churn Prediction using Machine Learning
 Kelas Pembelajaran dari DQLab
 
 ### Latar Belakang
@@ -40,7 +40,25 @@ Pada analisis kali ini, akan digunakan beberapa package yang membantu kita dalam
 
 * **Pickle** mengimplementasikan protokol biner untuk serializing dan de-serializing dari struktur objek Python.
 
+### Exploratory Data Analysis
+
+* Memvisualisasikan Prosentase Churn 
+* Exploratory Data Analysis (EDA) Variabel Numerik 
+* Exploratory Data Analysis (EDA) Variabel Kategorik 
+
+### Data PreProcessing
+* Menghapus Unnecessary Columns dari data  
+* Encoding Data  
+* Splitting Dataset 
+
+### Pemodelan Machine Learning
+* Logistic Regression
+* Random Forest Classifier
+* Gradient Boosting Classifier
+
 
 Study Case ini dapat diakses melalui https://academy.dqlab.id/main/package/practice/249?pf=0.
+
+![image](https://user-images.githubusercontent.com/62486840/148069833-9bacde97-55b3-4943-8b82-f8ffb4959240.png)
 
 
